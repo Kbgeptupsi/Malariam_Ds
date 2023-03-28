@@ -2,7 +2,7 @@
 Malariam
 
 ### Instalacion de dependencias y configuracion de entorno de desarollo
-@pip install numpy
-@pip install pandas
-@pip install tensorflow
+* pip3 install numpy
+* pip3 install pandas
+* pip3 install tensorflow
 ***
